@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+# Vijay_Portfolio
+My Data Science portfolio
 
-You can use the [editor on GitHub](https://github.com/vijay-sassy/data-science-portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# [Project 1: Car Price Prediction](https://github.com/vijay-sassy/data-science-portfolio-code/blob/master/1%20-%20Car%20Price%20Prediction.ipynb) 
+This project uses Linear Regression algorithm to predict a car price. After finding the multi-collinear variables, RFE was used for feature engineering to find the best 6 variables that help in the prediction.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](/images/1-car-price-prediction.jpg)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# [Project 2: Telecom Churn](https://github.com/vijay-sassy/data-science-portfolio-code/blob/master/2%20-%20Telecom%20Churn.ipynb) 
+This project helps in predicting the churn of a customer using telecom services of a provider. The algorithm used was Logistic Regression and the feature engineering involves RFE & VIF.
 
-```markdown
-Syntax highlighted code block
+![](/images/2-telecom-churn.png)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# [Project 3: Spell Corrector](https://github.com/vijay-sassy/data-science-portfolio-code/blob/master/3%20-%20Spell%20Corrector.ipynb) 
+This project is a spell corrector app that gives a suggestion when a word is misspelt. It is implemented with the edit distance algorithm constituting a single or double edits.
 
-1. Numbered
-2. List
+![](/images/3-spell-corrector.jpg)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+# [Project 4: Project HR](https://github.com/vijay-sassy/data-science-portfolio-code/blob/master/4%20-%20Project%20HR.ipynb) 
+This project is to help the HR department in predicting the attrition of their employees. The Decision Tree algorithm was used to implement this prediction after performing the relationship analysis of various factors with correlation matrix.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![](/images/4-project-hr.png)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vijay-sassy/data-science-portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# [Project 5: Project Cancer Detection](https://github.com/vijay-sassy/data-science-portfolio-code/blob/master/5%20-%20Project%20Cancer%20Detection.ipynb) 
+This project detects whether a patient is prone to breast cancer. It is implemented with K-Nearest-Neighbour (KNN) algorithm and UCI dataset was used for the experiment. The hyperparameter tuning was done with Gread Search CV.
 
-### Support or Contact
+![](/images/positions_by_state.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# [Project 6: Clustering](https://github.com/vijay-sassy/data-science-portfolio-code/blob/master/6%20-%20Clustering.ipynb) 
+This project was done to do experiementation of clustering algorithms. K-Means & Hierarchical Clustering algorithms were used for the implementation. Elbow Method, Silhouette Analysis, and Mean shift techniques were performed for knowing the model better.
+
+![](/images/6-clustering.png)
+
+
+# [Project 7: Support Vector Machine](https://github.com/vijay-sassy/data-science-portfolio-code/blob/master/7%20-%20Support%20Vector%20Machine.ipynb) 
+All the variants of the SVM algorithm in terms of classifier like Linear, Polynomial, and Gaussian Radial Basis Function and regressor were implemented with cross-validation and hyperparameter tuning done.
+
+![](/images/7-support-vector-machine.png)
+
+
+# [Project 8 - k-Nearest Neighbor (KNN)](https://github.com/vijay-sassy/data-science-portfolio-code/blob/master/8%20-%20k-Nearest%20Neighbor%20(KNN).ipynb) 
+The KNN algorithm was used to do the prediction for Iris dataset.
+
+![](/images/8-k-nearest-neighbor.png)
+
+
+# [Project 9: Naive Bayes](https://github.com/vijay-sassy/data-science-portfolio-code/blob/master/9%20-%20Naive%20Bayes.ipynb) 
+This project helps in E-mail classification as Spam or Ham. The Naive Bayes classification algorithm was used with Multinomial NB method to implement the solution with solid evaluation metrics.
+
+![](/images/9-naive-bayes.png)
+
+
+# [Project 10: XGBoost](https://github.com/vijay-sassy/data-science-portfolio-code/blob/master/10%20-%20XGBoost.ipynb) 
+XG Boost algorithm was used to do prediction for the Titanic dataset from Seaborn library to decide if a passenger had survived or not. The evaluation of the model was done with various metrics
+
+![](/images/10-xgboost.jpg)
