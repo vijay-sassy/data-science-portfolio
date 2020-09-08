@@ -25,7 +25,7 @@ This project is to help the HR department in predicting the attrition of their e
 # [Project 5: Project Cancer Detection](https://github.com/vijay-sassy/data-science-portfolio-code/blob/master/5%20-%20Project%20Cancer%20Detection.ipynb) 
 This project detects whether a patient is prone to breast cancer. It is implemented with K-Nearest-Neighbour (KNN) algorithm and UCI dataset was used for the experiment. The hyperparameter tuning was done with Gread Search CV.
 
-![](/images/positions_by_state.png)
+![](/images/5-project-cancer-detection.jpg)
 
 
 # [Project 6: Clustering](https://github.com/vijay-sassy/data-science-portfolio-code/blob/master/6%20-%20Clustering.ipynb) 
