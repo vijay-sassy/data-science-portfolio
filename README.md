@@ -4,7 +4,7 @@ My Data Science portfolio
 # [Project 1: Car Price Prediction](https://github.com/vijay-sassy/data-science-portfolio-code/blob/master/1%20-%20Car%20Price%20Prediction.ipynb) 
 This project uses Linear Regression algorithm to predict a car price. After finding the multi-collinear variables, RFE was used for feature engineering to find the best 6 variables that help in the prediction.
 
-![](/images/1-car-price-prediction.jpg)
+![](/images/1-car-price-prediction.png)
 
 
 # [Project 2: Telecom Churn](https://github.com/vijay-sassy/data-science-portfolio-code/blob/master/2%20-%20Telecom%20Churn.ipynb) 
